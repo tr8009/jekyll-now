@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hello! My name is Avi Minocha and I am an undergraduate student majoring in Computer Science at the University of Texas at Austin. I am very interested in how computer science can make a difference in a multitude of fields and have a positive impact on people. My research interests include machine learning and artificial intelligence. Feel free to contact me at avi.minocha@utexas.edu.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[avi.minocha@utexas.edu](mailto:avi.minocha@utexas.edu)
